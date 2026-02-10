@@ -1,0 +1,15 @@
+# Python version
+# Recommended: Python 3.10.x
+
+# Deep Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Data handling
+numpy>=1.23.0
+pandas>=1.5.0
+
+# Image processing
+Pillow>=9.0.0
+
+streamlit>=1.25.0

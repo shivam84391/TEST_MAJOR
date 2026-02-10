@@ -1,0 +1,15 @@
+# Core
+numpy
+tqdm
+h5py
+
+# Deep Learning
+torch
+torchvision
+
+# Image handling
+Pillow
+opencv-python
+
+# App / Demo
+streamlit
