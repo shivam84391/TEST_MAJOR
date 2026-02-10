@@ -1,19 +1,9 @@
-# TEST_MAJOR
+# Project Title
 
-> ⚠️ **Status:** This project is currently in basic/initial stages of development.
+## Description
 
-## Overview
-This is a foundational project that will undergo significant changes and improvements.
+This is the updated README file including credits.
 
-## Current Status
-- 🏗️ Basic project structure
-- 📝 Core setup in progress
-- 🚀 More features coming soon
+## Credits
 
-## Next Steps
-- Additional features will be added in upcoming updates
-- Code improvements and enhancements planned
-- Stay tuned for more updates!
-
----
-*For now, please consider this as a work in progress. We'll be making substantial updates soon.*
+Credit to Shivam Kholia for contributions.
