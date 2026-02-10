@@ -2,7 +2,7 @@
 
 ## Description
 
-This is the updated README file including credits.
+isko clone kar lo rest ki jo dataset hai i will send link in whatsapp individually
 
 ## Credits
 
